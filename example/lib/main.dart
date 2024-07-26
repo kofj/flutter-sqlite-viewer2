@@ -2,7 +2,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:sqflite/sqflite.dart';
-import 'package:sqlite_viewer/sqlite_viewer.dart';
+import 'package:sqlite_viewer2/sqlite_viewer.dart';
 
 import './models/test.dart';
 
