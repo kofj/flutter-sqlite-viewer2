@@ -1,3 +1,8 @@
+## 2.0.0
+
+- Support fluter version large than v3.19
+- Ref: https://docs.flutter.dev/release/breaking-changes/3-19-deprecations
+
 ## 1.0.5
 
 - Support null safety
